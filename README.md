@@ -2,7 +2,7 @@
 
 ![Deployment Status](https://img.shields.io/badge/deployed-success-green)
 
-**Deployment:** [Nice Gadgets](https://159124422-catalog-frontend.netlify.app/)
+**Deployment:** [Nice Gadgets](https://todo82da7215-94f6-40fe-83b5-4b7732ed6.netlify.app/)
 
 ## Project Description
 
