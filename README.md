@@ -1,4 +1,4 @@
-# Nice Gadgets
+# Todo app
 
 ![Deployment Status](https://img.shields.io/badge/deployed-success-green)
 

@@ -2,7 +2,7 @@ import { TODOS_API_PATH } from '../constants/api';
 import { Todo } from '../types/Todo';
 import { client } from '../utils/fetchClient';
 
-export const USER_ID = process.env.USER_ID as string;
+export const USER_ID = Number(process.env.USER_ID as string);
 
 export const getTodos = () => client.get<Todo[]>(`${TODOS_API_PATH}?userId=${USER_ID}`);
 
